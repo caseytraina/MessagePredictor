@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-MessagePredictor-MessagePredictorUITests/Pods-MessagePredictor-MessagePredictorUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/MarkovModel/MarkovModel.framework
+${BUILT_PRODUCTS_DIR}/PermissionsKit-macOS/PermissionsKit.framework
